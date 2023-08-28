@@ -1,4 +1,4 @@
 # Encrypt_Desktop
+An encryption application that encrypts and decrypts your files.
 A desktop version of my website Encrypt https://encrypt.pythonanywhere.com/
-Can encrypt your files with a max size of 100mb.
-Offline mode.
+
